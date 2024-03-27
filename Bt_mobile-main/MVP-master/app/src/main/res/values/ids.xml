@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="headerText" type="id" />
+    <item name="contactListView" type="id" />
+    <item name="fabAddContact" type="id" />
+</resources>
